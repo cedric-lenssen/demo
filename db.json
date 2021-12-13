@@ -1,5 +1,5 @@
 {
-  "products": {
+  "products": [
     {
     "id": 12345,
     "profileid": 789,
@@ -54,5 +54,5 @@
     "created": "2021-06-21",
     "updated":
     }
-  }
+  ]
 }
