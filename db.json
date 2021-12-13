@@ -12,12 +12,12 @@
     "fat": 18,
     "proteins": 12,
     "fibre": 0,
-    "refLink": 1,
+    "refLink": ,
     "verificationStatus": 1,
     "published": true,
     "created": "2021-06-21",
     "updated":
-    },
+    },.
     {
     "id": 12374,
     "profileid": 738,
