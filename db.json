@@ -1,6 +1,24 @@
 {
   "products": [
     {
+    "id": 49023,
+    "profileid": 111,
+    "name": "Milch",
+    "brand": "Aldi",
+    "ehn": 492992503,
+    "baseUnit": "liters",
+    "kcal": 64,
+    "carbs": 5,
+    "fat": 3.5,
+    "proteins": 3,
+    "fibre": 0,
+    "refLink": "1",
+    "verificationStatus": 1,
+    "published": "true",
+    "created": "2021-09-21",
+    "updated": "no"
+    },
+    {
     "id": 12345,
     "profileid": 789,
     "name": "Käse",
